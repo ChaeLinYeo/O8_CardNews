@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="fr.avianey.com.viewpagerindicator:library-2.4.1">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.android/build-cache/05c3e93e239e31c0c632f972e9392f198096e704/output/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.android/build-cache/05c3e93e239e31c0c632f972e9392f198096e704/output/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/library-2.4.1.aar/6fb9d373e80a69d94ee2753bbda7a730/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/library-2.4.1.aar/6fb9d373e80a69d94ee2753bbda7a730/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
