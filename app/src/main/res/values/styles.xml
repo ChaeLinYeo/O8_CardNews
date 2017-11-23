@@ -24,4 +24,9 @@
         <item name="android:textColorPrimary">#FFFFFF</item>
         <item name="android:textSize">14sp</item>
     </style>
+
+    <style name="SplashTheme" parent="@android:style/Theme.Light.NoTitleBar">
+        <!--drawable 부분에 이미지 설정-->
+        <item name="android:windowBackground">@drawable/image</item>
+    </style>
 </resources>
