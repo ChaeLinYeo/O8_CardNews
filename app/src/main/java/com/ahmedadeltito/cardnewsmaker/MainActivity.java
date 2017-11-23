@@ -9,11 +9,12 @@ import android.webkit.WebSettings;
 import android.webkit.WebView;
 import android.widget.Button;
 
-import com.ahmedadeltito.cardnewsmaker.widget.DialogGuide;
 
 public class MainActivity extends MediaActivity {
     private DialogGuide dialogGuide;
     private WebView webView;
+    static int i;
+
     public void openUserGallery(View view) {
         openGallery();
     }
@@ -64,6 +65,7 @@ public class MainActivity extends MediaActivity {
             case R.id.help:
                 dialogGuide = new DialogGuide(MainActivity.this);
                 dialogGuide.show();
+                i = 1;
                 return true;
         }
 

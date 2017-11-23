@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!--Copyright (c) <2017> navy-08
+See the file License for copying permission-->
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:orientation="horizontal"
     tools:context="com.ahmedadeltito.cardnewsmaker.MainActivity">
 
     <WebView
@@ -91,7 +94,6 @@
                         android:layout_width="0dp"
                         android:layout_height="match_parent"
                         android:backgroundTint="@color/light_violet_color"
-                        android:drawableTop="?attr/actionModeCopyDrawable"
                         android:text="Another\ncardnews"
                         android:textColor="@color/white"
                         android:textSize="11dp">
