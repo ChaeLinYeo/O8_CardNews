@@ -89,7 +89,7 @@ See the file License for copying permission-->
                         android:textColor="@color/white" />
 
                     <Button
-                        android:id="@+id/licensecbtn"
+                        android:id="@+id/showAnother"
                         android:layout_weight="1"
                         android:layout_width="0dp"
                         android:layout_height="match_parent"
@@ -102,11 +102,43 @@ See the file License for copying permission-->
                 </LinearLayout>
             </LinearLayout>
 
-            <View
+            <LinearLayout
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
-                android:layout_weight="15">
-            </View>
+                android:layout_weight="15"
+                android:orientation="vertical">
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="22">
+                </View>
+                <LinearLayout
+                    android:layout_weight="940"
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:orientation="horizontal">
+                    <View
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_weight="6">
+                    </View>
+                    <Button
+                        android:id="@+id/showL"
+                        android:layout_weight="70"
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent" />
+                    <View
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_weight="24">
+                    </View>
+                </LinearLayout>
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="15">
+                </View>
+            </LinearLayout>
 
         </LinearLayout>
 
@@ -115,8 +147,6 @@ See the file License for copying permission-->
             android:layout_height="0dp"
             android:layout_weight="23">
         </View>
-
-
 
     </LinearLayout>
 
