@@ -58,6 +58,12 @@
                         android:visibility="gone"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent" />
+                    <ImageView
+                        android:id="@+id/img5"
+                        android:src="@drawable/i2"
+                        android:visibility="gone"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent" />
                     <LinearLayout
                         android:visibility="visible"
                         android:layout_width="match_parent"

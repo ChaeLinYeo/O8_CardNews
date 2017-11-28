@@ -15,6 +15,7 @@ public class DialogGuide extends Dialog {
     private ImageView i2;
     private ImageView i3;
     private ImageView i4;
+    private ImageView i5;
     private Context context;
 
     @Override
@@ -31,7 +32,7 @@ public class DialogGuide extends Dialog {
         nextButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                if (MainActivity.i<4) ++MainActivity.i;
+                if (MainActivity.i<5) ++MainActivity.i;
                 Start();
             }
         });
@@ -49,6 +50,7 @@ public class DialogGuide extends Dialog {
         i2 = (ImageView)findViewById(R.id.img2);
         i3 = (ImageView)findViewById(R.id.img3);
         i4 = (ImageView)findViewById(R.id.img4);
+        i5 = (ImageView)findViewById(R.id.img5);
 
 //        mcloseButton = (Button)findViewById(R.id.go_right);
 
@@ -71,24 +73,35 @@ public class DialogGuide extends Dialog {
                 i2.setVisibility(View.GONE);
                 i3.setVisibility(View.GONE);
                 i4.setVisibility(View.GONE);
+                i5.setVisibility(View.GONE);
                 break;
             case 2:
                 i1.setVisibility(View.GONE);
                 i2.setVisibility(View.VISIBLE);
                 i3.setVisibility(View.GONE);
                 i4.setVisibility(View.GONE);
+                i5.setVisibility(View.GONE);
                 break;
             case 3:
                 i1.setVisibility(View.GONE);
                 i2.setVisibility(View.GONE);
                 i3.setVisibility(View.VISIBLE);
                 i4.setVisibility(View.GONE);
+                i5.setVisibility(View.GONE);
                 break;
             case 4:
                 i1.setVisibility(View.GONE);
                 i2.setVisibility(View.GONE);
                 i3.setVisibility(View.GONE);
                 i4.setVisibility(View.VISIBLE);
+                i5.setVisibility(View.GONE);
+                break;
+            case 5:
+                i1.setVisibility(View.GONE);
+                i2.setVisibility(View.GONE);
+                i3.setVisibility(View.GONE);
+                i4.setVisibility(View.GONE);
+                i5.setVisibility(View.VISIBLE);
                 break;
         }
     }
