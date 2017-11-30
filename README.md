@@ -21,7 +21,7 @@ Card News is a unique culture in Korea that puts news contents in form of cards.
 * Saving image after editing.
 * Undo after editing.
 * Sharing Card after editing. (Autosave when Sharing)
-* Link to Another Card News List
+* Link to Another CardNews List
 * User Manual (How to use)
 
 
@@ -37,6 +37,7 @@ Card News is a unique culture in Korea that puts news contents in form of cards.
 ## Requirements
 
 Works on devices 4.2+ (Jelly Bean or Higher).
+
 api more than 17 , sdk 26.0.2
 
 
@@ -54,7 +55,7 @@ Download the apk [Here](https://drive.google.com/uc?id=1nBfh5VJB5BEZ_725iBXb62kc
 
 ## Editor
 [YoungHoon Kwon](https://github.com/hoonski), Tae O Kim, ChaeLin Yeo, SeungChan Yu, EunWoo Lee at Hanyang University. (Team #navy-08)
-[Communicate by Face Book](https://www.facebook.com/Navy-08-394512150985434/)
+[Communicate by Facebook](https://www.facebook.com/Navy-08-394512150985434/)
 
 ## License
 
