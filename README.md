@@ -54,7 +54,7 @@ Download the apk [Here](https://drive.google.com/uc?id=1nBfh5VJB5BEZ_725iBXb62kc
 
 ## Editor
 [YoungHoon Kwon](https://github.com/hoonski), Tae O Kim, ChaeLin Yeo, SeungChan Yu, EunWoo Lee at Hanyang University. (Team #navy-08)
-
+[Communicate by Face Book](https://www.facebook.com/Navy-08-394512150985434/)
 
 ## License
 
