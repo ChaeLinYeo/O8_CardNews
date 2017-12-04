@@ -7,7 +7,7 @@ Card News is a unique culture in Korea that puts news contents in form of cards.
 
 **[CardNewsMaker](https://github.com/hoonski/O8_CardNews)** is a Card News making tool which is based on **[PhotoEditorSDK](https://github.com/eventtus/photo-editor-android)**.
 
-![Main](https://github.com/hoonski/O8_CardNews/blob/master/screenshots/Main-image.png?raw=true)
+![Main](https://github.com/hoonski/O8_CardNews/blob/master/screenshots/%EA%B7%B8%EB%A6%BC1.png)
 
 
 
