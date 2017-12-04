@@ -1,4 +1,4 @@
-#Specification introduction for developers
+# Specification introduction for developers
 ---
 
 ## Contents
@@ -30,7 +30,7 @@
 
 
 
-##Code Instruction
+## Code Instruction
 
   * ### Setting custom saving directory
     In `BaseActivity.class`, go to here:
@@ -53,8 +53,7 @@
       ```
 
     `Enviroment.DIRECTORY_PICTURES` set the saving directory of pictures as `/mnt/sdcard/Android/data/<package name>/files/Pictures`.
-    <br>
-    If you want to set your own directory, recode like this:
+    <br>If you want to set your own directory, recode like this:
     ```Java
     // Get absolute path of sdcard
     String absolutePath = Environment.getExternalStorageDirectory().getAbsolutePath()
@@ -70,7 +69,7 @@
 
     You can use `path` as `mediaStorageDir` in first code block.
     <br>
-* ### Changing the form of saved file name
+  * ### Changing the form of saved file name
     To set your own form of file name, edit this part:
     ```Java
     .
@@ -114,12 +113,12 @@
       You can also change the form of name for your card news at `PhotoEditorActivity.class`
       ```Java
           public void onFinish() {
-          String timeStamp = new SimpleDateFormat("yyyyMMdd_HHmmss").format(new Date());
-          String imageName = "CARD_" + timeStamp + ".jpeg";
-          Intent returnIntent = new Intent();
-          returnIntent.putExtra("imagePath", photoEditorSDK.saveImage("CardNewsMaker",         imageName));
-          setResult(Activity.RESULT_OK, returnIntent);
-          finish();
+            String timeStamp = new SimpleDateFormat("yyyyMMdd_HHmmss").format(new Date());
+            String imageName = "CARD_" + timeStamp + ".jpeg";
+            Intent returnIntent = new Intent();
+            returnIntent.putExtra("imagePath", photoEditorSDK.saveImage("CardNewsMaker",         imageName));
+            setResult(Activity.RESULT_OK, returnIntent);
+            finish();
           }
         }.start();
       }
@@ -131,11 +130,11 @@
         Intent returnIntent = new Intent();
         returnIntent.putExtra("imagePath", imagePath);
         setResult(Activity.RESULT_OK, returnIntent);
-      .
-      .
-      .
-      ```
-    <br>
+        .
+        .
+        .
+        ```
+        <br>
 * ### Setting Custom Url link
   ```Java
       @Override
