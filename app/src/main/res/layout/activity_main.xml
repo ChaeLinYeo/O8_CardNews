@@ -60,7 +60,8 @@ See the file License for copying permission-->
                     <ImageView
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
-                        app:srcCompat="@drawable/mm3" />
+                        app:srcCompat="@drawable/mm3"
+                        android:scaleType="fitXY"/>
                 </LinearLayout>
 
 

@@ -6,6 +6,7 @@
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
+
     </style>
 
     <style name="AppTheme.NoActionBar">
@@ -29,4 +30,6 @@
         <!--drawable 부분에 이미지 설정-->
         <item name="android:windowBackground">@drawable/roading</item>
     </style>
+
+
 </resources>

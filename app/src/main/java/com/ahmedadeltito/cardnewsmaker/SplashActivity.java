@@ -19,7 +19,7 @@ public class SplashActivity extends Activity {
             e.printStackTrace();
         }
 //        style xml에서 로딩화면 이미지 수정
-        startActivity(new Intent(this, MainActivity.class));
+        startActivity(new Intent(this, GuideActivity.class));
         finish();
     }
 }
