@@ -42,12 +42,6 @@ api more than 17 , sdk 26.0.2
 
 
 
-## Installation
-
-Download the apk [Here](https://drive.google.com/uc?id=1nBfh5VJB5BEZ_725iBXb62kcM-4KbYqb&export=download) and install. Make sure you enable **unknown sources** in **Settings-Security** in order to install this app. In latest Samsung devices, you can allow once to install this app without enabling unknown sources. 
-
-
-
 ## Credits
 
 [Yejun Kim](https://github.com/kyj0701), [Taewan Park](https://github.com/Taewan-P), [Hongil Son](https://github.com/sonhl0723), [Chaelin Yeo](https://github.com/ChaeLinYeo), [Jinwoo Choi](https://github.com/ptcjw201) at Hanyang University. (Team #yellow-10)
