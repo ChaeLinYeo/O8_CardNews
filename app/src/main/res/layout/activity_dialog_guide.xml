@@ -36,13 +36,13 @@
                     android:background="#ffffff">
                     <ImageView
                         android:id="@+id/img1"
-                        android:src="@drawable/i1"
+                        android:src="@drawable/b1"
                         android:visibility="visible"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent" />
                     <ImageView
                         android:id="@+id/img2"
-                        android:src="@drawable/i2"
+                        android:src="@drawable/b2"
                         android:visibility="gone"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent" />
@@ -54,13 +54,13 @@
                         android:layout_height="match_parent" />
                     <ImageView
                         android:id="@+id/img4"
-                        android:src="@drawable/i4"
+                        android:src="@drawable/b4"
                         android:visibility="gone"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent" />
                     <ImageView
                         android:id="@+id/img5"
-                        android:src="@drawable/i5"
+                        android:src="@drawable/b5"
                         android:visibility="gone"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent" />

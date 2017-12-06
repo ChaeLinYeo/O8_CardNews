@@ -53,11 +53,16 @@ See the file License for copying permission-->
                 android:layout_height="match_parent"
                 android:orientation="vertical">
 
-                <ImageView
+                <LinearLayout
                     android:layout_weight="48"
                     android:layout_width="match_parent"
-                    android:layout_height="0dp"
-                    app:srcCompat="@drawable/tyle1" />
+                    android:layout_height="0dp">
+                    <ImageView
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        app:srcCompat="@drawable/mm3" />
+                </LinearLayout>
+
 
                 <LinearLayout
                     android:layout_weight="15"
