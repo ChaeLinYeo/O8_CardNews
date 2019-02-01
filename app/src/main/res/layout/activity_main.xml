@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!--Copyright (c) <2017> navy-08
+See the file License for copying permission-->
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:orientation="horizontal"
     tools:context="com.ahmedadeltito.cardnewsmaker.MainActivity">
 
     <WebView
@@ -50,11 +53,17 @@
                 android:layout_height="match_parent"
                 android:orientation="vertical">
 
-                <ImageView
+                <LinearLayout
                     android:layout_weight="48"
                     android:layout_width="match_parent"
-                    android:layout_height="0dp"
-                    app:srcCompat="@drawable/tyle1" />
+                    android:layout_height="0dp">
+                    <ImageView
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        app:srcCompat="@drawable/mm3"
+                        android:scaleType="fitXY"/>
+                </LinearLayout>
+
 
                 <LinearLayout
                     android:layout_weight="15"
@@ -86,12 +95,11 @@
                         android:textColor="@color/white" />
 
                     <Button
-                        android:id="@+id/licensecbtn"
+                        android:id="@+id/showAnother"
                         android:layout_weight="1"
                         android:layout_width="0dp"
                         android:layout_height="match_parent"
                         android:backgroundTint="@color/light_violet_color"
-                        android:drawableTop="?attr/actionModeCopyDrawable"
                         android:text="Another\ncardnews"
                         android:textColor="@color/white"
                         android:textSize="11dp">
@@ -100,11 +108,43 @@
                 </LinearLayout>
             </LinearLayout>
 
-            <View
+            <LinearLayout
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
-                android:layout_weight="15">
-            </View>
+                android:layout_weight="15"
+                android:orientation="vertical">
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="22">
+                </View>
+                <LinearLayout
+                    android:layout_weight="940"
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:orientation="horizontal">
+                    <View
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_weight="6">
+                    </View>
+                    <Button
+                        android:id="@+id/showL"
+                        android:layout_weight="70"
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent" />
+                    <View
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_weight="24">
+                    </View>
+                </LinearLayout>
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="15">
+                </View>
+            </LinearLayout>
 
         </LinearLayout>
 
@@ -113,8 +153,6 @@
             android:layout_height="0dp"
             android:layout_weight="23">
         </View>
-
-
 
     </LinearLayout>
 

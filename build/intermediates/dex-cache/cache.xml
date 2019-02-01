@@ -3,183 +3,21 @@
 
     <item
         is-multidex="true"
-        jar="/Users/kwon-younghoon/.android/build-cache/56460ed27617eece0ab364fdd6753cfc3ccf7429/output/jars/classes.jar"
+        jar="/Users/kwon-younghoon/Desktop/N_Cardnews/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="26.0.2"
-        sha1="95519720620b553f63afc789beba9ad582807f7c">
-        <dex dex="/Users/kwon-younghoon/Desktop/Card_News/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_75b1f30f17226517ccad52d44fdd32a42d19c1df/classes.dex" />
+        sha1="bea98952e49dbcf2883c7c4163e1560c02e4fc7e">
+        <dex dex="/Users/kwon-younghoon/Desktop/N_Cardnews/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_5769194db14352dd0710f7897a1bb95dac60918c/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/kwon-younghoon/.android/build-cache/8c0ec4d41591a5ea8772e7d685a77fe821bfccc2/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.2"
-        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
-        <dex dex="/Users/kwon-younghoon/Desktop/Card_News/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7582340692f07a9e083e8c62a124533b55db972c/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/kwon-younghoon/.android/build-cache/ae5623ed50be8ac5f60a7324d9ac717a0daf9bd6/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Users/kwon-younghoon/Desktop/Card_News/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_921aa6d40d39bbb53dc2a234997f38908e06e717/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/kwon-younghoon/.android/build-cache/be4a9119917fde743c3e4980198bd28d27b35481/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.2"
-        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
-        <dex dex="/Users/kwon-younghoon/Desktop/Card_News/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_771c029f907fd2239d76cdfc3851db0c244da4b6/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/kwon-younghoon/Library/Android/sdk/build-tools/26.0.2/renderscript/lib/renderscript-v8.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.2"
-        sha1="215805fbe923c9b192d4a9a3d13a07c7fc1d3f53">
-        <dex dex="/Users/kwon-younghoon/Desktop/Card_News/app/build/intermediates/transforms/dex/debug/folders/1000/10/renderscript-v8_d9bbfd016cf1c698d34bd775d0ff0570305e0917/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/kwon-younghoon/Desktop/Card_News/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jar="/Users/kwon-younghoon/Desktop/N_Cardnews/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="26.0.2"
         sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
-        <dex dex="/Users/kwon-younghoon/Desktop/Card_News/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_74c2ec3e020c5ef900248aa656647179b5aa57e6/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/kwon-younghoon/.android/build-cache/32e3c41d7768572468bfa34bf9cab38ae3b76c6e/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.2"
-        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
-        <dex dex="/Users/kwon-younghoon/Desktop/Card_News/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_069ce30e1b1bbb10b8332ac02ab34b40abdc9b76/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/kwon-younghoon/.android/build-cache/93e776f859212f029c3e0524fb5a4762a545f911/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.2"
-        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
-        <dex dex="/Users/kwon-younghoon/Desktop/Card_News/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8ff2e847edea1c3c2304608b17db1b8e0f976f7f/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/kwon-younghoon/.android/build-cache/05c3e93e239e31c0c632f972e9392f198096e704/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.2"
-        sha1="86f452c126cb92a79e1dcf08efec5404529b698e">
-        <dex dex="/Users/kwon-younghoon/Desktop/Card_News/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e481b482d67cb9b8f4daabd7f3be659403105a6d/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/kwon-younghoon/.android/build-cache/dc99f6fa93fea0721bb83f6e758469cf63fda6ca/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.2"
-        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
-        <dex dex="/Users/kwon-younghoon/Desktop/Card_News/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1ec3d7867c7352c55cbbbc5cc2f8f76f41ef1fc5/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/kwon-younghoon/.android/build-cache/2be8c7cbb9d5cdab40de99836f66a149b10d0ad0/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.2"
-        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
-        <dex dex="/Users/kwon-younghoon/Desktop/Card_News/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_414554a3a7c3f4fdfffee8005648b332af701620/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/kwon-younghoon/.android/build-cache/a5df7265b76fbc74b9a4682c4158cdd3c7bc6810/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.2"
-        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
-        <dex dex="/Users/kwon-younghoon/Desktop/Card_News/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_258d4ad98f680fd58b155f9693129b8366755c99/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/kwon-younghoon/.android/build-cache/5eac3d6d998fce0db95f1f8140cf1f53f0246ffc/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.2"
-        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
-        <dex dex="/Users/kwon-younghoon/Desktop/Card_News/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_739b0f5b4cd67570666b44b2bee2397ac6c9534a/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/kwon-younghoon/Desktop/Card_News/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.2"
-        sha1="183b835bac5e62accd88798b2ab80b3759bc2189">
-        <dex dex="/Users/kwon-younghoon/Desktop/Card_News/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_753cdaa146ef070b657721da0cf39a4da16e9062/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/kwon-younghoon/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.2"
-        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
-        <dex dex="/Users/kwon-younghoon/Desktop/Card_News/app/build/intermediates/transforms/dex/debug/folders/1000/10/library-2.4.0_a1494bdff6f1200f72e58544433e9e0ae87faf99/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/kwon-younghoon/.android/build-cache/3c9c249b41f38fd3438449058901fc066c681a4a/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.2"
-        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
-        <dex dex="/Users/kwon-younghoon/Desktop/Card_News/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_aba2f5136367db2b44b4a926abfbadf53b188810/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/kwon-younghoon/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.2"
-        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
-        <dex dex="/Users/kwon-younghoon/Desktop/Card_News/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_57bf9e1162919ef0b5ba080c4debaaeef980aee3/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/kwon-younghoon/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.2"
-        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
-        <dex dex="/Users/kwon-younghoon/Desktop/Card_News/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_931e9b7340b4ec163edfc29e889bcaabf7bfa662/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/kwon-younghoon/.android/build-cache/fd9d830df6da28d4bae81a37dbc1c2e82130e4cf/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.2"
-        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
-        <dex dex="/Users/kwon-younghoon/Desktop/Card_News/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d7fb1600063f9dac5a63fb210d7927f8e88d9cf8/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/kwon-younghoon/.android/build-cache/7f2af475fa1019368afa2732d428e9df8191bda5/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.2"
-        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
-        <dex dex="/Users/kwon-younghoon/Desktop/Card_News/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_545a234aaa3919d8b8481b0e0f8a90cb5b8d320f/classes.dex" />
+        <dex dex="/Users/kwon-younghoon/Desktop/N_Cardnews/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_0431470deb7d9015b2d7e5cf34ed1e1b42c54f07/classes.dex" />
     </item>
 
 </items>

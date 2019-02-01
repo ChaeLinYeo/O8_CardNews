@@ -5,9 +5,9 @@ It's an android app that makes card-news.
 
 Card News is a unique culture in Korea that puts news contents in form of cards. It is usually posted on SNS.
 
-**[CardNewsMaker](https://github.com/Taewan-P/Card_News_Making_Tool)** is a Card News making tool which is based on **[PhotoEditorSDK](https://github.com/eventtus/photo-editor-android)**.
+**[CardNewsMaker](https://github.com/hoonski/O8_CardNews)** is a Card News making tool which is based on **[PhotoEditorSDK](https://github.com/eventtus/photo-editor-android)**.
 
-![Main](https://raw.githubusercontent.com/Taewan-P/Card_News_Making_Tool/master/screenshots/allinone.png)
+![Main](https://github.com/hoonski/O8_CardNews/blob/master/screenshots/%EA%B7%B8%EB%A6%BC1.png)
 
 
 
@@ -21,6 +21,8 @@ Card News is a unique culture in Korea that puts news contents in form of cards.
 * Saving image after editing.
 * Undo after editing.
 * Sharing Card after editing. (Autosave when Sharing)
+* Link to Another CardNews List
+* User Manual (How to use)
 
 
 
@@ -36,11 +38,7 @@ Card News is a unique culture in Korea that puts news contents in form of cards.
 
 Works on devices 4.2+ (Jelly Bean or Higher).
 
-
-
-## Installation
-
-Download the apk [Here](https://drive.google.com/uc?id=1nBfh5VJB5BEZ_725iBXb62kcM-4KbYqb&export=download) and install. Make sure you enable **unknown sources** in **Settings-Security** in order to install this app. In latest Samsung devices, you can allow once to install this app without enabling unknown sources. 
+api more than 17 , sdk 26.0.2
 
 
 
@@ -49,6 +47,9 @@ Download the apk [Here](https://drive.google.com/uc?id=1nBfh5VJB5BEZ_725iBXb62kc
 [Yejun Kim](https://github.com/kyj0701), [Taewan Park](https://github.com/Taewan-P), [Hongil Son](https://github.com/sonhl0723), [Chaelin Yeo](https://github.com/ChaeLinYeo), [Jinwoo Choi](https://github.com/ptcjw201) at Hanyang University. (Team #yellow-10)
 
 
+## Editor
+[YoungHoon Kwon](https://github.com/hoonski), Tae O Kim, ChaeLin Yeo, SeungChan Yu, EunWoo Lee at Hanyang University. (Team #navy-08)
+[Communicate by Facebook](https://www.facebook.com/Navy-08-394512150985434/)
 
 ## License
 

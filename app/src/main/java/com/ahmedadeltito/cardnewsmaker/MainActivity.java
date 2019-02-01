@@ -9,11 +9,15 @@ import android.webkit.WebSettings;
 import android.webkit.WebView;
 import android.widget.Button;
 
-import com.ahmedadeltito.cardnewsmaker.widget.DialogGuide;
+import com.yellowten.cardnewsmaker.LicenseActivity;
+
 
 public class MainActivity extends MediaActivity {
     private DialogGuide dialogGuide;
     private WebView webView;
+    private Button button;
+    static int i;
+
     public void openUserGallery(View view) {
         openGallery();
     }
@@ -34,13 +38,23 @@ public class MainActivity extends MediaActivity {
         webSettings.setSupportZoom(true);
 
         // 액티비티 전환
-        Button button1 = (Button)findViewById(R.id.licensecbtn);
+        Button button1 = (Button)findViewById(R.id.showAnother);
 
         button1.setOnClickListener(new View.OnClickListener() {
 
             @Override
             public void onClick(View v) {
                 webView.loadUrl("http://news.naver.com/main/hotissue/sectionList.nhn?mid=hot&sid1=110&cid=1010805");
+            }
+        });
+
+        button = (Button)findViewById(R.id.showL);
+        button.setBackgroundResource(R.drawable.li);
+        button.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(MainActivity.this, LicenseActivity.class);
+                startActivity(intent);
             }
         });
     }
@@ -64,6 +78,7 @@ public class MainActivity extends MediaActivity {
             case R.id.help:
                 dialogGuide = new DialogGuide(MainActivity.this);
                 dialogGuide.show();
+                i = 1;
                 return true;
         }
 
